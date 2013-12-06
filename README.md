@@ -1,4 +1,4 @@
-backbone-render-collection
+Backbone render collection
 ==========================
 
 Backbone render collection
